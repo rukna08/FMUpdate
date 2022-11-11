@@ -1,2 +1,2 @@
 # FMUpdate
-Fake Mac Update Screen
+fake mac update screen
