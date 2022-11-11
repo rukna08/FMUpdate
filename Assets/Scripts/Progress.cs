@@ -34,6 +34,12 @@ public class Progress : MonoBehaviour {
 
         }
 
+        if (progressBar.value >= 1f) {
+
+            Application.Quit();
+
+        }
+
     }
 
 }
